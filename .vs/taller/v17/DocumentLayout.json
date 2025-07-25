@@ -1,0 +1,1076 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\web\\service\\corsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|solutionrelative:web\\service\\corsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\web\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|solutionrelative:web\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|solutionrelative:web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533419A9-F364-4BDC-B4F5-D1A53620F687}|Business\\Business.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\business\\custom\\tokenbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533419A9-F364-4BDC-B4F5-D1A53620F687}|Business\\Business.csproj|solutionrelative:business\\custom\\tokenbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\dtos\\select\\roluserselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\select\\roluserselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533419A9-F364-4BDC-B4F5-D1A53620F687}|Business\\Business.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\business\\interfaces\\ivalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533419A9-F364-4BDC-B4F5-D1A53620F687}|Business\\Business.csproj|solutionrelative:business\\interfaces\\ivalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533419A9-F364-4BDC-B4F5-D1A53620F687}|Business\\Business.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\business\\interfaces\\itoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533419A9-F364-4BDC-B4F5-D1A53620F687}|Business\\Business.csproj|solutionrelative:business\\interfaces\\itoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533419A9-F364-4BDC-B4F5-D1A53620F687}|Business\\Business.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\business\\interfaces\\ibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533419A9-F364-4BDC-B4F5-D1A53620F687}|Business\\Business.csproj|solutionrelative:business\\interfaces\\ibusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533419A9-F364-4BDC-B4F5-D1A53620F687}|Business\\Business.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\business\\interfaces\\ibusinessextended.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533419A9-F364-4BDC-B4F5-D1A53620F687}|Business\\Business.csproj|solutionrelative:business\\interfaces\\ibusinessextended.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A508B5D3-D2F4-46A5-8E2E-E4DE2C1594D7}|Utilities\\Utilities.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\utilities\\custom\\encriptepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A508B5D3-D2F4-46A5-8E2E-E4DE2C1594D7}|Utilities\\Utilities.csproj|solutionrelative:utilities\\custom\\encriptepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|solutionrelative:web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\dtos\\default\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\default\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533419A9-F364-4BDC-B4F5-D1A53620F687}|Business\\Business.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\business\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533419A9-F364-4BDC-B4F5-D1A53620F687}|Business\\Business.csproj|solutionrelative:business\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533419A9-F364-4BDC-B4F5-D1A53620F687}|Business\\Business.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\business\\repository\\businessbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533419A9-F364-4BDC-B4F5-D1A53620F687}|Business\\Business.csproj|solutionrelative:business\\repository\\businessbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533419A9-F364-4BDC-B4F5-D1A53620F687}|Business\\Business.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\business\\repository\\businessgeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533419A9-F364-4BDC-B4F5-D1A53620F687}|Business\\Business.csproj|solutionrelative:business\\repository\\businessgeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EDADB9-875C-4833-B1FE-7017CFE667B6}|Data\\Data.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\data\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EDADB9-875C-4833-B1FE-7017CFE667B6}|Data\\Data.csproj|solutionrelative:data\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EDADB9-875C-4833-B1FE-7017CFE667B6}|Data\\Data.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\data\\interfaces\\iroluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EDADB9-875C-4833-B1FE-7017CFE667B6}|Data\\Data.csproj|solutionrelative:data\\interfaces\\iroluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EDADB9-875C-4833-B1FE-7017CFE667B6}|Data\\Data.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\data\\repositoy\\datageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EDADB9-875C-4833-B1FE-7017CFE667B6}|Data\\Data.csproj|solutionrelative:data\\repositoy\\datageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EDADB9-875C-4833-B1FE-7017CFE667B6}|Data\\Data.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\data\\services\\roluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EDADB9-875C-4833-B1FE-7017CFE667B6}|Data\\Data.csproj|solutionrelative:data\\services\\roluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EDADB9-875C-4833-B1FE-7017CFE667B6}|Data\\Data.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\data\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EDADB9-875C-4833-B1FE-7017CFE667B6}|Data\\Data.csproj|solutionrelative:data\\services\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A508B5D3-D2F4-46A5-8E2E-E4DE2C1594D7}|Utilities\\Utilities.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\utilities\\exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A508B5D3-D2F4-46A5-8E2E-E4DE2C1594D7}|Utilities\\Utilities.csproj|solutionrelative:utilities\\exceptions\\businessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A508B5D3-D2F4-46A5-8E2E-E4DE2C1594D7}|Utilities\\Utilities.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\utilities\\exceptions\\dataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A508B5D3-D2F4-46A5-8E2E-E4DE2C1594D7}|Utilities\\Utilities.csproj|solutionrelative:utilities\\exceptions\\dataexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\dtos\\default\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\default\\pedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\models\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\models\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\dtos\\default\\detallepedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\default\\detallepedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\dtos\\default\\roldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\default\\roldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\web\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|solutionrelative:web\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\web\\web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|solutionrelative:web\\web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\web\\service\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|solutionrelative:web\\service\\pedidoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\web\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|solutionrelative:web\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\web\\service\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|solutionrelative:web\\service\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\web\\service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|solutionrelative:web\\service\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\web\\service\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|solutionrelative:web\\service\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\web\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|solutionrelative:web\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|solutionrelative:web\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\web\\controllers\\rolusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|solutionrelative:web\\controllers\\rolusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\web\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|solutionrelative:web\\controllers\\rolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\web\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|solutionrelative:web\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\web\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|solutionrelative:web\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EDADB9-875C-4833-B1FE-7017CFE667B6}|Data\\Data.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\data\\interfaces\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53EDADB9-875C-4833-B1FE-7017CFE667B6}|Data\\Data.csproj|solutionrelative:data\\interfaces\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\web\\service\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4242B4-10C7-4ACC-8E10-40541D901A92}|Web\\Web.csproj|solutionrelative:web\\service\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\dtos\\default\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\default\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533419A9-F364-4BDC-B4F5-D1A53620F687}|Business\\Business.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\business\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533419A9-F364-4BDC-B4F5-D1A53620F687}|Business\\Business.csproj|solutionrelative:business\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533419A9-F364-4BDC-B4F5-D1A53620F687}|Business\\Business.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\business\\services\\roluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533419A9-F364-4BDC-B4F5-D1A53620F687}|Business\\Business.csproj|solutionrelative:business\\services\\roluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{533419A9-F364-4BDC-B4F5-D1A53620F687}|Business\\Business.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\business\\services\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{533419A9-F364-4BDC-B4F5-D1A53620F687}|Business\\Business.csproj|solutionrelative:business\\services\\rolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\dtos\\default\\crearpedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\default\\crearpedidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\dtos\\default\\creardetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\default\\creardetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\dtos\\default\\pizzadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\default\\pizzadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\dtos\\default\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\default\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\dtos\\default\\roluserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\default\\roluserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\dtos\\default\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\default\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\dtos\\default\\rolformpermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\default\\rolformpermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\models\\roluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\models\\roluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\models\\rolformpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\models\\rolformpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\entity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|c:\\users\\ingrid medina\\documents\\pruebaworldskills\\prueba25-07-2025\\taller\\entity\\migrations\\20250725215907_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D032F13E-EA7C-47A0-91A8-56971FBBE030}|Entity\\Entity.csproj|solutionrelative:entity\\migrations\\20250725215907_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CorsService.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Service\\CorsService.cs",
+              "RelativeDocumentMoniker": "Web\\Service\\CorsService.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Service\\CorsService.cs",
+              "RelativeToolTip": "Web\\Service\\CorsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:54:24.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Program.cs",
+              "RelativeToolTip": "Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T18:25:42.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IToken.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Business\\Interfaces\\IToken.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IToken.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Business\\Interfaces\\IToken.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:55:06.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IValidate.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Business\\Interfaces\\IValidate.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IValidate.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Business\\Interfaces\\IValidate.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IValidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:55:07.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RolUserSelect.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Select\\RolUserSelect.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\Select\\RolUserSelect.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Select\\RolUserSelect.cs",
+              "RelativeToolTip": "Entity\\DTOs\\Select\\RolUserSelect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:16:43.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Web\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\WeatherForecast.cs",
+              "RelativeToolTip": "Web\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T18:25:43.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\appsettings.json",
+              "RelativeToolTip": "Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T01:19:47.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Business\\Custom\\TokenBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Custom\\TokenBusiness.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Business\\Custom\\TokenBusiness.cs",
+              "RelativeToolTip": "Business\\Custom\\TokenBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:54:27.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-26T01:19:51.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBusinessExtended.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Business\\Interfaces\\IBusinessExtended.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IBusinessExtended.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Business\\Interfaces\\IBusinessExtended.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IBusinessExtended.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:53:54.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Business\\Interfaces\\IBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IBusiness.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Business\\Interfaces\\IBusiness.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:55:04.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EncriptePassword.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Utilities\\Custom\\EncriptePassword.cs",
+              "RelativeDocumentMoniker": "Utilities\\Custom\\EncriptePassword.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Utilities\\Custom\\EncriptePassword.cs",
+              "RelativeToolTip": "Utilities\\Custom\\EncriptePassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:16:47.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Web\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwEcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:50:49.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\Default\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\LoginDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\Default\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:53:27.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Business\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Business\\AutoMapper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Business\\AutoMapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Business\\AutoMapper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:54:49.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20250725215907_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Migrations\\20250725215907_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Entity\\Migrations\\20250725215907_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Migrations\\20250725215907_InitialCreate.cs",
+              "RelativeToolTip": "Entity\\Migrations\\20250725215907_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:59:07.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DataGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Data\\Repositoy\\DataGeneric.cs",
+              "RelativeDocumentMoniker": "Data\\Repositoy\\DataGeneric.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Data\\Repositoy\\DataGeneric.cs",
+              "RelativeToolTip": "Data\\Repositoy\\DataGeneric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:14:57.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Entity\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Entity\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:38:04.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IRolUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Data\\Interfaces\\IRolUserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IRolUserRepository.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Data\\Interfaces\\IRolUserRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IRolUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:14:38.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BusinessBasic.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Business\\Repository\\BusinessBasic.cs",
+              "RelativeDocumentMoniker": "Business\\Repository\\BusinessBasic.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Business\\Repository\\BusinessBasic.cs",
+              "RelativeToolTip": "Business\\Repository\\BusinessBasic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:56:17.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BusinessGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Business\\Repository\\BusinessGeneric.cs",
+              "RelativeDocumentMoniker": "Business\\Repository\\BusinessGeneric.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Business\\Repository\\BusinessGeneric.cs",
+              "RelativeToolTip": "Business\\Repository\\BusinessGeneric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:55:12.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Data\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Data\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:14:45.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RolUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Data\\Services\\RolUserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\RolUserRepository.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Data\\Services\\RolUserRepository.cs",
+              "RelativeToolTip": "Data\\Services\\RolUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:15:07.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Data\\Services\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Services\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Data\\Services\\UserRepository.cs",
+              "RelativeToolTip": "Data\\Services\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:15:15.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Models\\Pedido.cs",
+              "RelativeToolTip": "Entity\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:57:59.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BusinessException.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Utilities\\Exceptions\\BusinessException.cs",
+              "RelativeDocumentMoniker": "Utilities\\Exceptions\\BusinessException.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Utilities\\Exceptions\\BusinessException.cs",
+              "RelativeToolTip": "Utilities\\Exceptions\\BusinessException.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:16:50.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DataException.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Utilities\\Exceptions\\DataException.cs",
+              "RelativeDocumentMoniker": "Utilities\\Exceptions\\DataException.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Utilities\\Exceptions\\DataException.cs",
+              "RelativeToolTip": "Utilities\\Exceptions\\DataException.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:17:02.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PedidoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\PedidoDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\Default\\PedidoDto.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\PedidoDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\Default\\PedidoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:04:08.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DetallePedido.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Models\\DetallePedido.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\DetallePedido.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Models\\DetallePedido.cs",
+              "RelativeToolTip": "Entity\\Models\\DetallePedido.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:59:13.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RolDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\RolDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\Default\\RolDto.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\RolDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\Default\\RolDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:57:01.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Models\\Pizza.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\Pizza.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Models\\Pizza.cs",
+              "RelativeToolTip": "Entity\\Models\\Pizza.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:57:26.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Models\\Permission.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\Permission.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Models\\Permission.cs",
+              "RelativeToolTip": "Entity\\Models\\Permission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:59:53.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Models\\Cliente.cs",
+              "RelativeToolTip": "Entity\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:58:27.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DetallePedidoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\DetallePedidoDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\Default\\DetallePedidoDto.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\DetallePedidoDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\Default\\DetallePedidoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:03:40.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Web",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Web.csproj",
+              "RelativeDocumentMoniker": "Web\\Web.csproj",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Web.csproj",
+              "RelativeToolTip": "Web\\Web.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T21:33:20.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PedidoService.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Service\\PedidoService.cs",
+              "RelativeDocumentMoniker": "Web\\Service\\PedidoService.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Service\\PedidoService.cs",
+              "RelativeToolTip": "Web\\Service\\PedidoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:21:05.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Web\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:19:56.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Service\\JwtService.cs",
+              "RelativeDocumentMoniker": "Web\\Service\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Service\\JwtService.cs",
+              "RelativeToolTip": "Web\\Service\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:53:59.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Service\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "Web\\Service\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Service\\DatabaseService.cs",
+              "RelativeToolTip": "Web\\Service\\DatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:54:16.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Service\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Web\\Service\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Service\\ClienteService.cs",
+              "RelativeToolTip": "Web\\Service\\ClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:21:15.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Service\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "Web\\Service\\ApplicationService.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Service\\ApplicationService.cs",
+              "RelativeToolTip": "Web\\Service\\ApplicationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:54:26.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Web\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:31:27.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RolUserController.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Controllers\\RolUserController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\RolUserController.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Controllers\\RolUserController.cs",
+              "RelativeToolTip": "Web\\Controllers\\RolUserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:54:45.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Web\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:54:33.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RolController.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Controllers\\RolController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\RolController.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Controllers\\RolController.cs",
+              "RelativeToolTip": "Web\\Controllers\\RolController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:39:51.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PizzaController.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Controllers\\PizzaController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\PizzaController.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Controllers\\PizzaController.cs",
+              "RelativeToolTip": "Web\\Controllers\\PizzaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:18:32.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "Web\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:19:22.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IData.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Data\\Interfaces\\IData.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IData.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Data\\Interfaces\\IData.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:14:36.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PizzaService.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Service\\PizzaService.cs",
+              "RelativeDocumentMoniker": "Web\\Service\\PizzaService.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Web\\Service\\PizzaService.cs",
+              "RelativeToolTip": "Web\\Service\\PizzaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:20:51.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ClienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\ClienteDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\Default\\ClienteDto.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\ClienteDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\Default\\ClienteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:05:04.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Business\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Business\\Services\\UserService.cs",
+              "RelativeToolTip": "Business\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:14:14.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RolUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Business\\Services\\RolUserService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\RolUserService.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Business\\Services\\RolUserService.cs",
+              "RelativeToolTip": "Business\\Services\\RolUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:13:58.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RolService.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Business\\Services\\RolService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\RolService.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Business\\Services\\RolService.cs",
+              "RelativeToolTip": "Business\\Services\\RolService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:55:18.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CrearPedidoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\CrearPedidoDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\Default\\CrearPedidoDto.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\CrearPedidoDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\Default\\CrearPedidoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:10:11.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CrearDetalleDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\CrearDetalleDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\Default\\CrearDetalleDto.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\CrearDetalleDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\Default\\CrearDetalleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:09:45.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "PizzaDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\PizzaDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\Default\\PizzaDto.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\PizzaDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\Default\\PizzaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:03:00.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PermissionDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\PermissionDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\Default\\PermissionDto.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\PermissionDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\Default\\PermissionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:05:00.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RolUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\RolUserDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\Default\\RolUserDto.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\RolUserDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\Default\\RolUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:02:43.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\UserDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\Default\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\UserDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\Default\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T18:37:13.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RolFormPermissionDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\RolFormPermissionDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\Default\\RolFormPermissionDto.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\DTOs\\Default\\RolFormPermissionDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\Default\\RolFormPermissionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:04:55.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "RolUser.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Models\\RolUser.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\RolUser.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Models\\RolUser.cs",
+              "RelativeToolTip": "Entity\\Models\\RolUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T21:00:41.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Models\\User.cs",
+              "RelativeToolTip": "Entity\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T18:36:41.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Models\\Rol.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\Rol.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Models\\Rol.cs",
+              "RelativeToolTip": "Entity\\Models\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:57:11.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "RolFormPermission.cs",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Models\\RolFormPermission.cs",
+              "RelativeDocumentMoniker": "Entity\\Models\\RolFormPermission.cs",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Models\\RolFormPermission.cs",
+              "RelativeToolTip": "Entity\\Models\\RolFormPermission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T18:58:26.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Entity.csproj",
+              "DocumentMoniker": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Entity.csproj",
+              "RelativeDocumentMoniker": "Entity\\Entity.csproj",
+              "ToolTip": "C:\\Users\\Ingrid Medina\\Documents\\PruebaWorldSkills\\Prueba25-07-2025\\taller\\Entity\\Entity.csproj",
+              "RelativeToolTip": "Entity\\Entity.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-27T17:19:47.938Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
